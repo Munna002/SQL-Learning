@@ -1,6 +1,8 @@
 
 **SQL Learning Journey: From Zero to Intermediate**
+
 Welcome to my SQL learning journey! This document highlights the key concepts and skills I have developed while progressing from a beginner to an intermediate level in SQL.
+
 **Learning Objectives**
 **Throughout this journey, I have focused on mastering various SQL techniques and concepts, including:**
 
