@@ -1,6 +1,4 @@
 
-Sure! Here’s a README file organized from ETL fundamentals to advanced concepts:
-
 **SQL Learning Journey: From Zero to Intermediate**
 Welcome to my SQL learning journey! This document highlights the key concepts and skills I have developed while progressing from a beginner to an intermediate level in SQL.
 **Learning Objectives**
