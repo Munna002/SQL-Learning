@@ -8,13 +8,21 @@ Welcome to my SQL learning journey! This document highlights the key concepts an
 
 **ETL Fundamentals:** Understanding the principles of Extract, Transform, Load (ETL) processes to handle data integration and transformation.
 **Data Warehousing:** Exploring data warehousing concepts and practices for efficient data storage and retrieval.
+
 **OLAP and OLTP:** Differentiating between Online Analytical Processing (OLAP) and Online Transaction Processing (OLTP) to apply appropriate data handling methods.
+
 **Subqueries:** Learning to embed queries within other queries for advanced data filtering and manipulation.
+
 **Common Table Expressions (CTEs):** Utilizing CTEs to simplify complex queries and improve readability, especially in recursive queries.
+
 **Temporary Tables:** Applying temporary tables for managing intermediate data during complex operations.
+
 **Joining Tables:** Mastering various types of joins (INNER, LEFT, RIGHT, FULL) to combine and analyze data from multiple sources.
+
 **User-Defined Functions:**Creating and using user-defined functions to encapsulate reusable logic and calculations.
+
 **Stored Procedures:** Developing stored procedures to automate repetitive tasks and encapsulate complex SQL code.
+
 **Code Reusability:** Organizing and storing SQL code for efficiency and reusability in different projects.
 
 **Key Concepts and Techniques**
